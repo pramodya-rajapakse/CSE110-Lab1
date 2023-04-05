@@ -1,5 +1,6 @@
 # Pramodya Rajapkse
 Hi, my name is Pramodya Rajapakse (pronounced *pruh-moe-dee-ya*, although I also go by Prom (like the dance). I am a third-year transfer student majoring in Computer Science. 
+
 ![Old picture of me](sd.jpg)
 
 ## Me as a Programmer
