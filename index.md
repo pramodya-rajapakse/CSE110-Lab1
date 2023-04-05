@@ -23,5 +23,6 @@ I was surprised that the required coursework for Software Engineering was only o
 - [ ] Get a sense of the challenges and pitfalls that come with coordinating with a group
 
 ## Me as a Person
-[Here](/sd.jpg)
+I was born in Sri Lanka, but my family moved to the United States before I turned one year old, so I've been here basically my entire life. I enjoy reading, and I have been trying to hike and run more. 
+[Here](/sd.jpg) is the image of myself above (as a relative link).
 
