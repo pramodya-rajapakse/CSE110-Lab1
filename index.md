@@ -8,7 +8,9 @@ I started programming in my senior year of high school, and although I wasn't en
 
 ### CSE-110
 I was surprised that the required coursework for Software Engineering was only one class, so I'm sure I will not be industry-ready by the end of this class. However, I do hope this class will demystify the true work and skills that are required of a software engineer, and at least give a taste of what working on a long (relatively speaking) project with a group will be like. As such, my goals for this class are:
-- [] Become comfortable with the fundamental tools needed for development projects (source control, CLI, project management)
+- [ ] Become comfortable with the fundamental tools needed for development projects (source control, CLI, project management)
+- [ ] Get a sense of where I am lacking in terms of writing and maintaining quality code
+- [ ] Get a sense of the challenges and pitfalls that come with coordinating with a group
 
 ## Me as a Person
 
