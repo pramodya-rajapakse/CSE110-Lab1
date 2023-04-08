@@ -10,7 +10,7 @@ Thus far my experience mainly includes:
 - Java
 - Python
 
-As for the CSE courses I have taken so far at UCSD, I have completed CSE 21, 15L, 100 and 105, and this quarter I am taking CSE 110, 101 and 150B. [Here](https://github.com/pramodya-rajapakse/cse15l-lab-reports) is a link to my work for CSE-15L, and a short example of a shell script I wrote for one of the labs is:
+As for the CSE courses I have taken so far at UCSD, I have completed CSE 21, 15L, 100 and 105, and this quarter I am taking CSE 110, 101 and 150B. [Here](https://github.com/pramodya-rajapakse/cse15l-lab-reports) is a link to my work for CSE-15L, and a short snippet of a shell script I wrote for one of the labs is:
 ```
 git clone $1 $REPO_PATH
 if [[ $? -ne 0 ]]
@@ -37,4 +37,7 @@ I was surprised that the required coursework for Software Engineering was only o
 ## Me as a Person
 I was born in Sri Lanka, but my family moved to the United States before I turned one year old, so I've been here basically my entire life. I enjoy reading, and I have been trying to hike and run more. 
 [Here](/sd.jpg) is the image of myself above (as a relative link).
+
+A quote I try to live by is
+> Be tolerant with others and strict with yourself - Marcus Aurelius
 
