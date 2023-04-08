@@ -10,9 +10,19 @@ Thus far my experience mainly includes:
 - Java
 - Python
 
-As for the CSE courses I have taken so far at UCSD, I have completed CSE 21, 15L, 100 and 105, and this quarter I am taking CSE 110, 101 and 150B. [Here](https://github.com/pramodya-rajapakse/cse15l-lab-reports) is a link to my work for CSE-15L.
+As for the CSE courses I have taken so far at UCSD, I have completed CSE 21, 15L, 100 and 105, and this quarter I am taking CSE 110, 101 and 150B. [Here](https://github.com/pramodya-rajapakse/cse15l-lab-reports) is a link to my work for CSE-15L, and a short example of a shell script I wrote for one of the labs is:
+```
+git clone $1 $REPO_PATH
+if [[ $? -ne 0 ]]
+then
+    echo "ERROR: Could not clone the student's repository"
+    echo -e "\n==> Final Grade: 0/100"
+    exit 1
+fi
+echo "--> Cloned student's repository"
+```
 
-Although I have done work in other languges (R, SQL), these three are the ones I am most comfortable with. However, I have started to realize that knowing a language is far less important than the underlying principles that you employ on a project.
+Although I have done work in other languges (R, SQL), these three are the ones I am most comfortable with. However, I have started to realize that knowing a language is far less important than the underlying principles that you employ on a project. 
 In terms of web development, I am very much out of practice. I dabbled in it for a short time after high school, but never had the time to commit to an extensive project. In terms of the languages used for web development, from most comfortable to least comfortable:
 1. Javascript
 2. HTML
