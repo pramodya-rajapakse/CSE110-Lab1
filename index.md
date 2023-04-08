@@ -39,5 +39,5 @@ I was born in Sri Lanka, but my family moved to the United States before I turne
 [Here](/sd.jpg) is the image of myself above (as a relative link).
 
 A quote I try to live by is
-> Be tolerant with others and strict with yourself - Marcus Aurelius
+> "Be tolerant with others and strict with yourself." - Marcus Aurelius
 
